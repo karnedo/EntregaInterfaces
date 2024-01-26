@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WanderWisely</string>
+    <string name="prefs_file">com.example.wanderwisely.PREFERENCE_FILE_KEY</string>
+</resources>

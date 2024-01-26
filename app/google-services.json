@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490693006778",
+    "project_id": "wanderwisely-348b4",
+    "storage_bucket": "wanderwisely-348b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490693006778:android:cfb72af05c8daf46e0f983",
+        "android_client_info": {
+          "package_name": "com.example.wanderwisely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclcezENGfni7Z4A4Tnh2-GU2uue0s-vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
